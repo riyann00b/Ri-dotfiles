@@ -1,8 +1,5 @@
 # Ri-dot-files
 
-Certainly! Here's an updated version of the README, including a note about the need to prefix the `.bashrc` file with a dot:
-
----
 
 # Linux Dotfiles
 
